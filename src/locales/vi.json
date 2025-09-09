@@ -1,0 +1,7 @@
+{
+  "hello": "Xin chào, {name}!",
+  "language": "Ngôn ngữ",
+  "menu": {
+    "home": "Trang chủ"
+  }
+}
