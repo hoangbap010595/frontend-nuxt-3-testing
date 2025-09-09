@@ -1,11 +1,11 @@
 <template>
   <div>
-    <NuxtDemo />
+    <Product />
   </div>
 </template>
 
 <script lang="ts" setup>
-import NuxtDemo from '~/components/home/Home.vue';
+import Product from '~/components/product/Product.vue';
 </script>
 
 <style scoped></style>
